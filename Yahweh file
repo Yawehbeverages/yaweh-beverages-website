@@ -1,0 +1,20 @@
+yaweh-beverages-website/
+├─ package.json
+├─ next.config.js
+├─ public/
+│  ├─ images/
+│  │  ├─ yaweh-still-water.jpg
+│  │  ├─ yaweh-sparkling-water.jpg
+│  │  ├─ yaweh-wine.jpg
+│  │  ├─ botanical-bliss-gin.jpg
+│  │  └─ yaweh-tshirt.jpg
+├─ pages/
+│  ├─ index.js      ← MUST exist
+│  ├─ _app.js
+│  └─ _document.js
+├─ components/
+│  └─ ui/
+│      ├─ card.js
+│      └─ button.js
+└─ styles/
+   └─ globals.css
