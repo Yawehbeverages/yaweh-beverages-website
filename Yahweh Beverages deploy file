@@ -1,0 +1,12 @@
+// Ready-to-deploy Yaweh Beverages website files for GitHub and Vercel
+
+// Instructions: // 1. Download this folder as a zip // 2. Log in to GitHub and create a new repository (name it: yaweh-beverages-website) // 3. Upload all files to this repo // 4. Log in to Vercel, click 'New Project' → 'Import Git Repository' // 5. Select this GitHub repository // 6. Vercel will build and deploy automatically // 7. After deployment, add your domain (yawehbeverages.online) in Vercel
+
+
+---
+
+Folder structure:
+
+yaweh-beverages-website/ ├─ package.json ├─ next.config.js ├─ public/ │  ├─ images/ │  │  ├─ yaweh-still-water.jpg │  │  ├─ yaweh-sparkling-water.jpg │  │  ├─ yaweh-wine.jpg │  │  ├─ botanical-bliss-gin.jpg │  │  └─ yaweh-tshirt.jpg ├─ pages/ │  ├─ index.js   // Homepage with products, featured slider, back label, compliance footer │  ├─ _app.js │  └─ _document.js ├─ components/ │  ├─ ui/ │  │  ├─ card.js │  │  └─ button.js └─ styles/ └─ globals.css
+
+// After following these steps, your website will be live on Vercel and ready to connect to your domain and PayFast.
