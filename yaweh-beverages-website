@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Yaweh Beverages</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+      color: #222;
+    }
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      margin-bottom: 5px;
+    }
+    .products {
+      max-width: 800px;
+      margin: auto;
+    }
+    .product {
+      background: #fff;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    }
+    .price {
+      font-weight: bold;
+      margin-top: 5px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #666;
+    }
+    .buy {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background: black;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Yaweh Beverages</h1>
+  <p>Official Online Store | Nationwide Delivery – South Africa</p>
+</header>
+
+<div class="products">
+
+  <div class="product">
+    <h3>Yaweh Still Water</h3>
+    <p class="price">R12</p>
+    <a class="buy" href="https://wa.me/27764958171">Buy via WhatsApp</a>
+  </div>
+
+  <div class="product">
+    <h3>Yaweh Sparkling Water</h3>
+    <p class="price">R18</p>
+    <a class="buy" href="https://wa.me/27764958171">Buy via WhatsApp</a>
+  </div>
+
+  <div class="product">
+    <h3>Red & White Wine</h3>
+    <p class="price">R88</p>
+    <a class="buy" href="https://wa.me/27764958171">Buy via WhatsApp</a>
+  </div>
+
+  <div class="product">
+    <h3>Sparkling Wine (Champagne)</h3>
+    <p class="price">R210</p>
+    <a class="buy" href="https://wa.me/27764958171">Buy via WhatsApp</a>
+  </div>
+
+  <div class="product">
+    <h3>Botanical Bliss Dry Gin</h3>
+    <p class="price">R210</p>
+    <a class="buy" href="https://wa.me/27764958171">Buy via WhatsApp</a>
+  </div>
+
+  <div class="product">
+    <h3>Yaweh Branded T-Shirt</h3>
+    <p class="price">R750</p>
+    <a class="buy" href="https://wa.me/27764958171">Buy via WhatsApp</a>
+  </div>
+
+</div>
+
+<footer>
+  <p>Alcohol is not for sale to persons under the age of 18. Drink responsibly.</p>
+  <p>© Yaweh Beverages | Yahweh Group Pty Ltd</p>
+</footer>
+
+</body>
+</html>
